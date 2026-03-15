@@ -236,7 +236,7 @@
       "type": "framework",
       "optional": true,
       "owner": "lolren",
-      "version": "https://github.com/lolren/NRF54L15-Clean-Arduino-core/releases/download/v0.1.71/nrf54l15clean-0.1.71.tar.bz2",
+      "version": "https://github.com/lolren/NRF54L15-Clean-Arduino-core/releases/download/v0.1.71/nrf54l15clean-0.1.71.tar.bz2"
     },
     "framework-cmsis": {
       "type": "framework",
