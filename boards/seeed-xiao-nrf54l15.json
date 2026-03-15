@@ -19,7 +19,8 @@
       "svd_path": "nrf54l15.svd"
     },
     "frameworks": [
-      "zephyr"
+      "zephyr",
+      "arduino"
     ],
     "name": "Seeed Studio XIAO nRF54L15",
     "upload": {
